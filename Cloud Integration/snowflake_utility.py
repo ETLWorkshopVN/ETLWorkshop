@@ -1,6 +1,8 @@
 import snowflake.connector
 import configparser
 
+from file_utility import generate_rows_from_file
+
 
 def connect_to_db():
     config = configparser.ConfigParser()
@@ -25,3 +27,4 @@ def load_tables(content):
         query = f"INSERT INTO {table} ({','.join(fields)}) VALUES ({','.join(['%s'] * len(fields))})"
         print(f"Loading table {table}")
         cursor.executemany(query, table_prop['data'])
+        print(f"{table} table loaded")
