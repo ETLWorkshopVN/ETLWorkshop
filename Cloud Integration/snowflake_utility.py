@@ -1,3 +1,7 @@
+import subprocess
+import sys
+subprocess.call('pip install snowflake-connector-python -t /tmp/ --no-cache-dir'.split(), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+sys.path.insert(1, '/tmp/')
 import snowflake.connector
 import configparser
 
