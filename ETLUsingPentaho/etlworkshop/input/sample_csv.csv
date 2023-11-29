@@ -1,0 +1,101 @@
+agency_name,agency_type,address,contact,distribution_channel,plan_name,premium_amount,customer_name,age,gender,travel_date,travel_destination,duration,claim_date,claim_amount
+CBH,Travel,Piercefort,6819486639,online,SILVER,26,Wendy Williams,93,,1993-01-04,JAPAN,5,1993-03-09,66
+CBH,Travel,West Angelamouth,5013658912,offline,PREMIUM,15,Jim Page,63,,1944-07-23,NORWAY,11,1944-10-11,60
+CBH,Travel,Colonview,7896965897,online,PREMIUM,48,Carla Cross,40,M,1958-05-02,INDONESIA,3,1958-07-23,35
+CBH,Travel,Nelsonfurt,8174444961,offline,SILVER,30,Erin Thompson,53,,1944-01-13,JAPAN,13,1944-02-05,66
+CBH,Travel,Hendersonside,0373602756,offline,PREMIUM,22,Katelyn Yu,63,,1959-05-05,FRANCE,4,1959-06-21,11
+CBH,Travel,East Emily,4655268997,offline,PREMIUM,46,Edward Stevens,39,,1981-02-25,SINGAPORE,3,1981-05-31,13
+CBH,Travel,West Melissa,4842506553,offline,GOLD,26,Amy Perez,88,,1981-04-07,USA,3,1981-06-02,48
+CBH,Travel,Lake Cheryl,6160728765,offline,PREMIUM,40,Cheryl Allen,90,M,1999-01-08,NORWAY,4,1999-03-06,47
+CBH,Travel,New Crystalshire,8110081036,online,PREMIUM,28,Sheila Pierce,41,,1981-11-16,UK,8,1981-12-04,61
+CBH,Travel,Port Chadmouth,1599477963,online,SILVER,45,Jennifer Freeman,100,,1960-03-22,UK,4,1960-05-12,73
+CBH,Travel,Lake Royburgh,3006161075,online,SILVER,21,Jonathan Downs,54,F,1959-03-16,UAE,1,1959-04-04,59
+CBH,Travel,Lukemouth,9250313631,online,GOLD,29,Michael Hunt,47,,1945-03-06,PHILIPPINES,7,1945-03-24,94
+CBH,Travel,Wrightburgh,2529721299,offline,GOLD,25,Jonathan Mclaughlin,60,,1970-09-01,JAPAN,13,1970-12-05,26
+CBH,Travel,East Tonyaton,0550719062,online,PREMIUM,24,Michael Bell,26,,1945-10-27,PHILIPPINES,8,1945-11-21,30
+CBH,Travel,North Lindseyberg,8119387877,online,PREMIUM,16,Jean Nunez,51,M,1945-12-02,SINGAPORE,3,1946-02-21,75
+CBH,Travel,North Kathryn,3864745954,offline,GOLD,31,Lisa Dean,73,,1972-10-19,PHILIPPINES,8,1973-01-16,80
+CBH,Travel,Port Maryport,6273514494,online,GOLD,36,Amber Cook,24,,1990-11-17,USA,4,1991-01-14,41
+CBH,Travel,East Markport,4695162238,offline,GOLD,19,Richard Alexander,33,F,1959-06-16,NORWAY,10,1959-07-11,64
+CBH,Travel,New Joyburgh,1232173131,offline,PREMIUM,16,Kathy Sanchez,76,M,1966-05-13,NORWAY,14,1966-06-20,50
+CBH,Travel,Davidhaven,4661650564,offline,GOLD,26,Jeremy Smith,52,M,1982-02-07,AUSTRALIA,4,1982-05-06,43
+CBH,Travel,Danielville,6573859989,online,SILVER,46,Brittany Gonzales,39,M,1952-05-26,THAILAND,4,1952-08-23,45
+CBH,Travel,Joycemouth,5836850412,online,SILVER,31,Debra Rodriguez,59,,1954-09-15,AUSTRALIA,12,1954-10-25,43
+CBH,Travel,East Summershire,1182715623,online,PREMIUM,18,Austin Brown,57,,1978-02-26,THAILAND,3,1978-05-26,16
+CBH,Travel,North Alisha,3587113954,online,SILVER,20,Karen Carroll,93,,1991-12-31,AUSTRALIA,2,1992-02-29,70
+CBH,Travel,Fowlerton,9074299627,offline,GOLD,34,John Smith,81,M,1981-09-22,UAE,11,1981-12-18,23
+CBH,Travel,East Christopher,4529647667,online,SILVER,28,Crystal Campbell,95,F,1954-12-04,NORWAY,14,1954-12-31,38
+CBH,Travel,Haleyberg,3089015215,online,PREMIUM,49,Rachel Richardson,39,F,1990-02-24,PHILIPPINES,11,1990-04-02,14
+CBH,Travel,South Christianstad,5159343538,offline,GOLD,29,Derek Singh,41,F,1980-05-30,CHINA,11,1980-07-19,48
+CBH,Travel,New Nicole,2445832379,online,SILVER,22,Mark Gomez,43,F,1973-05-26,INDONESIA,3,1973-08-31,29
+CBH,Travel,Arianachester,6759351197,offline,GOLD,40,Jennifer Adams,70,F,1982-05-30,UK,9,1982-08-04,59
+CBH,Travel,West Shannonmouth,5719210166,offline,PREMIUM,33,Blake Sanders,27,M,1944-04-01,THAILAND,12,1944-07-08,78
+CBH,Travel,North Cassidychester,3506492417,online,SILVER,46,Sarah Cole,83,M,2000-06-16,THAILAND,11,2000-09-13,87
+CBH,Travel,Lake Andrea,6042167509,online,SILVER,50,Eric Herrera,33,M,1991-03-01,CHINA,2,1991-06-02,67
+CBH,Travel,North Larryborough,9771052607,online,GOLD,43,Danielle Beck,85,,1961-11-12,CHINA,5,1962-01-11,31
+CBH,Travel,Pottermouth,7338853324,offline,GOLD,25,Jennifer Jackson,54,M,1988-12-20,NORWAY,12,1989-03-24,99
+CBH,Travel,Shepherdhaven,7209418865,online,SILVER,25,Kimberly Archer,70,F,1989-06-02,CHINA,2,1989-08-29,78
+CBH,Travel,East Dennisview,5288575414,offline,GOLD,19,Juan Atkinson,39,M,1990-07-15,THAILAND,7,1990-08-02,29
+CBH,Travel,Williamsstad,7956382614,offline,GOLD,19,Raymond Woodward,61,M,1959-08-30,THAILAND,14,1959-11-24,70
+CBH,Travel,North Ritafurt,4374349550,offline,SILVER,40,Phillip Juarez,96,,1945-10-14,UAE,12,1945-11-06,91
+CBH,Travel,New Samantha,6443781784,offline,GOLD,22,Marissa Snyder,57,F,1947-01-16,CHINA,7,1947-02-07,12
+CBH,Travel,Lawsonside,1838779112,online,PREMIUM,23,Raymond Riley,82,F,1977-01-13,FRANCE,3,1977-02-14,83
+CBH,Travel,Port Sierra,5038212901,offline,PREMIUM,26,Charles Riley,55,,2001-02-12,SINGAPORE,9,2001-05-04,44
+CBH,Travel,West Nathaniel,4057532367,offline,PREMIUM,47,Richard Lee,82,M,1999-01-22,MALAYSIA,9,1999-05-02,100
+CBH,Travel,East Bettyberg,9584006631,offline,PREMIUM,35,Bianca Tran,73,F,1962-12-13,PHILIPPINES,11,1963-01-07,70
+CBH,Travel,North Nancyport,2084291945,online,SILVER,48,James Cooper,97,F,1953-07-26,MALAYSIA,11,1953-10-26,33
+CBH,Travel,North Jeffrey,3595406011,offline,SILVER,46,Michelle Rodriguez,26,M,1967-01-07,CHINA,1,1967-02-23,22
+CBH,Travel,South Meganstad,6142976488,offline,SILVER,48,Danielle Moore,67,M,1998-12-07,THAILAND,4,1999-01-17,19
+CBH,Travel,New Brandy,6883473871,offline,PREMIUM,27,Michael Baker,29,,1950-05-16,MALAYSIA,7,1950-07-03,95
+CBH,Travel,Cooperberg,3734957134,offline,GOLD,46,Nicholas Macdonald,49,F,1968-03-04,USA,3,1968-05-09,74
+CBH,Travel,South Valeriemouth,8973846402,offline,PREMIUM,39,Mark Garcia,72,F,2004-07-23,NORWAY,10,2004-08-28,89
+CBH,Travel,Smithport,1822626308,offline,GOLD,21,Debra Farley,29,M,1950-11-07,CHINA,6,1950-12-20,59
+CBH,Travel,New Jessica,9854297494,online,PREMIUM,34,Mia Rodriguez,87,M,1990-11-06,JAPAN,3,1991-01-03,60
+CBH,Travel,New Kathleen,7942350087,online,SILVER,47,Thomas Ramirez,41,,1955-03-09,INDONESIA,11,1955-05-11,49
+CBH,Travel,Lisaport,9777977241,online,SILVER,33,Shaun Kennedy,31,F,1996-02-17,INDONESIA,9,1996-05-22,32
+CBH,Travel,South Kimberly,5559792846,offline,GOLD,23,Tyler Miller,46,M,2000-04-08,PHILIPPINES,7,2000-06-06,42
+CBH,Travel,Lake Juliaside,2527296087,online,PREMIUM,24,Lindsey Hanna,73,F,1954-06-29,CHINA,9,1954-07-27,57
+CBH,Travel,Waremouth,0522701023,online,GOLD,17,James Phillips,86,F,1952-02-05,MALAYSIA,11,1952-05-04,89
+CBH,Travel,Kevinton,4903226508,online,PREMIUM,42,Alex Hill,63,M,1976-11-10,FRANCE,12,1976-12-26,37
+CBH,Travel,Brandonview,7981887065,online,GOLD,26,Michael Hahn,24,,1947-08-30,NORWAY,7,1947-12-04,75
+CBH,Travel,West Harold,1921382298,offline,PREMIUM,34,Taylor Davis,75,,1990-01-29,SINGAPORE,1,1990-05-08,46
+CBH,Travel,Lucasmouth,4173050077,online,PREMIUM,43,Erika Thompson,68,,1986-06-29,AUSTRALIA,7,1986-09-25,46
+CBH,Travel,East Anna,5565815149,offline,GOLD,25,Luis Ford,51,F,1991-09-16,SINGAPORE,6,1991-10-07,14
+CBH,Travel,South Laurie,8462139449,offline,GOLD,30,Michael Brown,25,F,2000-08-02,AUSTRALIA,5,2000-11-04,99
+CBH,Travel,North Andrewchester,3316530932,offline,GOLD,23,William Jimenez,39,F,1952-01-07,AUSTRALIA,3,1952-01-31,19
+CBH,Travel,Carterport,1293927088,offline,GOLD,27,Steven Wheeler,73,,1976-02-08,CHINA,8,1976-04-03,74
+CBH,Travel,South Jacobview,1669036968,online,GOLD,18,Andrea Thompson,82,,1972-10-17,NORWAY,12,1972-12-16,24
+CBH,Travel,Pollardland,1722075422,online,SILVER,30,Dawn Carter,35,,1956-03-10,UAE,7,1956-06-11,15
+CBH,Travel,Stephenfort,2283828212,offline,PREMIUM,44,Bryan Haas,67,F,1994-12-17,CHINA,7,1995-01-24,25
+CBH,Travel,New Mariobury,6659497167,online,SILVER,18,Vanessa Rivas,70,,1949-09-09,UAE,9,1949-10-07,76
+CBH,Travel,North Cliffordburgh,7909236399,online,SILVER,26,Sarah Mason,67,,1958-05-09,INDONESIA,6,1958-06-19,12
+CBH,Travel,Thomasland,8188667063,offline,PREMIUM,50,Eric Smith,75,F,1971-04-02,UK,9,1971-06-08,65
+CBH,Travel,Cardenasstad,5024519389,offline,GOLD,17,Jonathan Hess,38,M,1983-12-17,INDONESIA,9,1984-02-26,100
+CBH,Travel,West Courtney,0446100590,online,PREMIUM,46,Dustin Bowers,76,,2003-04-06,AUSTRALIA,2,2003-05-14,46
+CBH,Travel,Port Teresaburgh,1186947537,offline,SILVER,33,Lisa Sandoval,49,,1965-04-10,THAILAND,6,1965-04-29,94
+CBH,Travel,East Jessica,9235378462,online,SILVER,47,Paul Edwards,60,F,1991-05-21,SINGAPORE,14,1991-08-18,77
+CBH,Travel,South Andrew,5044726162,offline,GOLD,19,Paul Hart,34,F,1962-03-11,INDONESIA,14,1962-06-06,26
+CBH,Travel,Lake Devon,2554629548,offline,SILVER,18,Desiree Williams,62,,1955-01-01,JAPAN,1,1955-02-17,58
+CBH,Travel,New Tammymouth,2457379989,online,GOLD,50,Brooke Martin,61,F,2000-07-19,CHINA,14,2000-09-18,12
+CBH,Travel,Matthewstown,9045710944,offline,SILVER,31,Robert Forbes,75,,1985-09-24,UAE,8,1985-11-24,53
+CBH,Travel,Rosehaven,9023512836,offline,PREMIUM,45,Susan Adams,98,M,1979-05-30,UK,6,1979-07-28,56
+CBH,Travel,New Cassandra,3762669406,online,GOLD,46,Michael Simmons,42,F,1978-06-18,UAE,3,1978-08-12,89
+CBH,Travel,West Daniel,9187561704,offline,GOLD,39,Isabel Richardson,62,M,1952-11-12,USA,10,1952-12-16,33
+CBH,Travel,Port John,1986525030,offline,PREMIUM,23,Tammy Simmons,20,,1999-11-19,NORWAY,13,1999-12-06,72
+CBH,Travel,Blacktown,2050403391,offline,GOLD,18,Nancy Lewis,27,F,1986-10-03,AUSTRALIA,5,1986-11-12,68
+CBH,Travel,Port John,5751069392,online,SILVER,27,Larry Thompson,65,F,1947-06-06,JAPAN,10,1947-07-24,96
+CBH,Travel,Lake Amy,1991201534,offline,PREMIUM,37,Joseph Erickson,85,,1999-01-08,JAPAN,12,1999-03-04,92
+CBH,Travel,Lake Kimberly,7585601885,offline,GOLD,36,Susan Walker,12,F,1975-02-20,JAPAN,12,1975-04-20,36
+CBH,Travel,Zoeland,0230121667,offline,SILVER,17,Kimberly Phillips,74,M,2001-06-11,JAPAN,5,2001-09-03,97
+CBH,Travel,East Roberto,5785732586,online,GOLD,22,Jesse Frank,18,,1963-10-04,CHINA,10,1963-12-08,31
+CBH,Travel,East Kevinville,4102506496,offline,SILVER,15,Betty Davis,29,,1977-06-25,MALAYSIA,9,1977-09-05,62
+CBH,Travel,Amyland,9828524529,online,GOLD,27,Kylie Flores,85,M,1980-12-18,NORWAY,11,1981-02-17,50
+CBH,Travel,Sotoshire,1609190062,offline,PREMIUM,42,Jason Walker,38,,1974-02-08,JAPAN,14,1974-04-13,71
+CBH,Travel,East Kevinfurt,8787911298,online,GOLD,38,Cody Jones,11,,1968-01-26,THAILAND,13,1968-03-26,18
+CBH,Travel,Joshuaside,1690950844,online,GOLD,21,Anthony Daniels,39,F,1946-02-20,FRANCE,10,1946-03-20,48
+CBH,Travel,East Andreastad,7754675503,online,PREMIUM,50,Travis Mendez,19,M,1990-10-30,NORWAY,12,1990-12-26,39
+CBH,Travel,Port Christopher,0223243189,online,SILVER,16,Candice Wright,32,F,1946-02-19,MALAYSIA,10,1946-05-12,47
+CBH,Travel,Floresburgh,3351975883,offline,PREMIUM,45,Katherine Palmer,41,,1951-02-06,AUSTRALIA,5,1951-03-27,24
+CBH,Travel,Johnsonhaven,3926858812,online,SILVER,46,Lindsay Williams,46,F,1984-03-17,MALAYSIA,1,1984-06-10,78
+CBH,Travel,Ashleymouth,5355170294,online,SILVER,16,Karen Cunningham,78,,1972-10-19,JAPAN,12,1972-11-26,12
+CBH,Travel,North Steven,8492257383,online,PREMIUM,50,Kristin Daniels,91,F,1990-05-12,SINGAPORE,2,1990-08-05,98

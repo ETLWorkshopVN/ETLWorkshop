@@ -1,0 +1,37 @@
+agency_name -> 3
+agency_type -> 6
+address -> 30
+contact -> 10
+distribution_channel -> 7
+plan_name -> 7
+premium_amount -> 3
+customer_name -> 30
+customer_age -> 3
+gender -> 1
+travel_date -> 10
+travel_destination -> 20
+duration -> 2
+claim_date -> 10
+claim_amount -> 3
+
+
+
+
+
+
+STANDARD INPUT
+agency_name	string 
+agency_type	string		
+address	string			
+contact	number #			
+distribution_channel	string			
+plan_name	string			
+premium_amount	number #.##			
+customer_name	string			
+age	number #			
+gender	string #			
+travel_date	date yyyy/MM/dd			
+travel_destination	string			
+duration	number #			
+claim_date date yyyy/MM/dd			
+claim_amount	number	#.##			
